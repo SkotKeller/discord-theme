@@ -1,23 +1,23 @@
 /* changes status from a circle to a border around pfp */
 /* online */
 .online-2S838R {
-    border: 3px solid #43b581!important;
+    border: 2px solid #43b581!important;
     background-color: transparent;
 }
 /* idle */
 .idle-3DEnRT {
     background-color: transparent;
-    border: 3px solid #faa61a!important;
+    border: 2px solid #faa61a!important;
 }
 /* do not disturb */
 .dnd-1_xrcq {
     background-color: transparent;
-    border: 3px solid #f04747!important;
+    border: 2px solid #f04747!important;
 }
 /* offline */
 .invisible-1kp8Z0, .offline-3qoTek, .unknown-Ms2zdV {
     background-color: transparent;
-    border: 3px solid #2f3136;
+    border: 2px solid #2f3136;
 }
 /* position of those statuses in whos online list */
 .status-2s6iDp, .avatar-small .status {
